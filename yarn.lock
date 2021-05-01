@@ -2456,6 +2456,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/react-native-uuid@npm:^1.4.0":
+  version: 1.4.0
+  resolution: "@types/react-native-uuid@npm:1.4.0"
+  checksum: 80de995085686b2023a61e5b8cdc2e53200d05c42d281413eee6f24cadc0fd4d8f6c7baa196cbf382d84ad0ffbb544c8b080fdb77de89cc89fbf2a766ae95799
+  languageName: node
+  linkType: hard
+
 "@types/react-native@npm:~0.63.2":
   version: 0.63.52
   resolution: "@types/react-native@npm:0.63.52"
@@ -7345,6 +7352,13 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
+"react-native-uuid@npm:^2.0.1":
+  version: 2.0.1
+  resolution: "react-native-uuid@npm:2.0.1"
+  checksum: 9eefa83ae9a1d8e25d49fbb63f9e88d598c61e287270b0fa123eb8f9913cbc0760bf0b50310a53fdb9d66b1ee383fea64f6afebc35f431b6a546dff0c3459f4c
+  languageName: node
+  linkType: hard
+
 "react-native-web@npm:~0.13.12":
   version: 0.13.18
   resolution: "react-native-web@npm:0.13.18"
@@ -7687,11 +7701,13 @@ fsevents@^1.2.7:
     "@babel/core": ^7.9.0
     "@types/react": ~16.9.35
     "@types/react-native": ~0.63.2
+    "@types/react-native-uuid": ^1.4.0
     expo: ~41.0.1
     expo-status-bar: ~1.0.4
     react: 16.13.1
     react-dom: 16.13.1
     react-native: "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz"
+    react-native-uuid: ^2.0.1
     react-native-web: ~0.13.12
     typescript: ~4.0.0
   languageName: unknown
